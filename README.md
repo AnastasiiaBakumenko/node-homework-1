@@ -1,6 +1,6 @@
 Get and display the entire list of contacts in the form of a table
 node index.js --action="list"
-![image](https://github.com/AnastasiiaBakumenko/node-homework-1/assets/111183401/4d5fb4bd-5efd-44f4-aaaa-afc180d18f9d)
+![image](https://github.com/AnastasiiaBakumenko/node-homework-1/assets/111183401/1ef64761-4068-41c1-ad99-6a77f0b1cec0)
 
 Search by Id
 node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
