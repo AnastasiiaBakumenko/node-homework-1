@@ -8,7 +8,7 @@ node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
 
 Add contact
 node index.js --action="add" --name Mango --email mango@gmail.com --phone 322-22-22
-![image](https://github.com/AnastasiiaBakumenko/node-homework-1/assets/111183401/86a8b373-1973-447c-969a-72832a2986da)
+![image](https://github.com/AnastasiiaBakumenko/node-homework-1/assets/111183401/3ce866dd-e0e3-4fdb-a099-6a25e278e415)
 
 Remove contact
 node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
