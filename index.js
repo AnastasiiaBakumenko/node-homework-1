@@ -22,7 +22,7 @@ const {
     switch (action) {
       case "list":
         const allContacts = await listContacts();
-        console.log(allContacts);
+        console.table(allContacts);
         break;
   
       case "get":
@@ -31,7 +31,7 @@ const {
         break;
   
       case "add":
-        const newContact = await addContact({ name, email, phone });
+        const newContact = await addContact( name, email, phone );
         console.log(newContact);
         break;
   
